@@ -55,3 +55,5 @@ JavaScript error: moz-extension://b0eddab2-521f-ef43-bdb2-a2f912f893f8/backgroun
 JavaScript error: moz-extension://b0eddab2-521f-ef43-bdb2-a2f912f893f8/background.js, line 12: Error: Could not establish connection. Receiving end does not exist.
 JavaScript error: moz-extension://b0eddab2-521f-ef43-bdb2-a2f912f893f8/background.js, line 12: Error: Could not establish connection. Receiving end does not exist.
 JavaScript error: moz-extension://b0eddab2-521f-ef43-bdb2-a2f912f893f8/background.js, line 12: Error: Could not establish connection. Receiving end does not exist.
+JavaScript error: moz-extension://27502ceb-1ab7-4d4c-b6f2-7736028bdd2c/assets/prompt.js, line 1: SyntaxError: redeclaration of let nextPromptResult
+1556947498594	Marionette	INFO	Stopped listening on port 53806
