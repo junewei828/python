@@ -14,14 +14,9 @@ def square_numbers(nums):
 
 my_nums_1 = square_numbers([1,2,3,4,5])
 # print(next(my_nums_1))
-# print(next(my_nums_1))
-# print(next(my_nums_1))
 
 for num in my_nums_1:
     print(num)
-
-#yield does not save the result in memory
-#next calculate result one by one
 
 my_nums = (x * x for x in [1,2,3,4,5])
 print(my_nums)
